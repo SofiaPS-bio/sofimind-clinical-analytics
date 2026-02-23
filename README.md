@@ -57,19 +57,19 @@ Focus: survival time across treatment groups and subgroup analyses.
 
 ### Open the Tableau workbooks:
 
-Oral_cancer.twb
+`Oral_cancer.twb`
 
-Lung_cancer.twb
+`Lung_cancer.twb`
 
 ### If Tableau prompts you to locate the data source:
 
 Point to the CSV files in the root folder:
 
-oral_cancer_prediction_dataset.csv
+`oral_cancer_prediction_dataset.csv`
 
-LungCanC2024_Dataset.csv
+`LungCanC2024_Dataset.csv`
 
-Refresh extracts if needed
+Refresh extracts if needed.
 
 Tip: If IDs are misread by Tableau (e.g., strange offsets), ensure the ID field is treated as String or use a STR([id]) calculated field.
 
@@ -79,9 +79,9 @@ Tip: If IDs are misread by Tableau (e.g., strange offsets), ensure the ID field 
 
 ### The project also includes MySQL scripts:
 
-Schema.sql — table schema / setup
+`Schema.sql` — table schema / setup
 
-oral_cancer.sql — analysis queries (group counts, survival summaries, etc.)
+`oral_cancer.sql` — analysis queries (group counts, survival summaries, etc.)
 
 These were executed in MySQL via DBeaver.
 
