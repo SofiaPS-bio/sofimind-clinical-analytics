@@ -45,7 +45,6 @@ Focus: survival time across treatment groups and subgroup analyses.
 
 ### Data files (CSV)
 - `oral_cancer_prediction_dataset.csv`
-- `LungCanC2024_Dataset.csv`
 - `cancer_survival.csv`
 
 ### Images / assets
